@@ -1,0 +1,48 @@
+
+.lighter{
+    color: rgb(161, 160, 160);
+    letter-spacing: 0.10rem;
+}
+.similar{
+    border-radius: 50%;
+    box-shadow: 2px 2px 3px 4px rgb(165, 163, 163)
+     ,-2px -2px 3px 4px rgb(5, 3, 3) inset;
+}
+.similar1,.similar2,.similar3,.similar5{
+    box-shadow: 2px 2px 3px 4px rgb(65, 62, 62),
+    -2px -2px 3px 4px rgb(49, 38, 38) inset;
+}
+.imagea{
+    position: relative;
+}
+.hov{
+    position: relative;
+    background-color: #fff;
+    top: -320px;
+    left: 160px;
+    border-radius: 20px;
+}
+.hov2{
+    position: relative;
+    background-color: #fff;
+    top:-310px;
+    left: 160px;
+    border-radius: 20px;
+}
+.hov3{
+    position: relative;
+    background-color: #fff;
+    top: -300px;
+    left: 160px;
+    border-radius: 20px;
+}
+.hov,.hov2,.hov3:hover{
+    cursor: pointer;
+}
+
+.blacksmoke:hover{
+    cursor: pointer;
+}
+.belowText{
+    font-size: 15px;
+}

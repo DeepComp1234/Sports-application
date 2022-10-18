@@ -1,0 +1,15 @@
+.main-text{
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.form-control{
+    padding: 8px 13px !important;
+}
+.fa-brands:hover{
+    color: rgb(0, 162, 255);
+    cursor: pointer;
+}
+.ho:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

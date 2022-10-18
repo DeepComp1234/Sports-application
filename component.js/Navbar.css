@@ -1,0 +1,8 @@
+.logos i{
+    transition: 0.2s linear;
+
+}
+.logos i:hover{
+    color: rgb(0, 162, 255);
+    cursor: pointer;
+}
